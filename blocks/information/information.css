@@ -1,0 +1,9 @@
+@import url("./__block/information__block.css");
+@import url('./__title/information__title.css');
+@import url('./__text/information__text.css');
+
+.information {
+  width: 100%;
+  background-color: #F6F6F6;
+  color: #070707;
+}

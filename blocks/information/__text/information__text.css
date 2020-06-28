@@ -1,0 +1,10 @@
+@import url('./_width-paragraph/information__text_width-paragraph.css');
+
+.information__text {
+  font-family: 'Gilroy-Medium', Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin-top: 36px;
+  margin-bottom: 57px;
+}

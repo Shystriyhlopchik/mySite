@@ -1,0 +1,7 @@
+.information__block {
+  max-width: 945px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 105px auto 0 auto;
+}

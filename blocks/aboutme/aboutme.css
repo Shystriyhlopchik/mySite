@@ -1,0 +1,10 @@
+@import url('./__top/aboutme__top.css');
+@import url('./__name/aboutme__name.css');
+@import url('./__description/aboutme__description.css');
+@import url('./__switch/aboutme__switch.css');
+@import url('./__image/aboutme__image.css');
+
+.aboutme {
+  max-width: 945px;
+  margin: 40px auto 0 auto;
+}
