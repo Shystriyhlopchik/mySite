@@ -1,0 +1,6 @@
+.technology__stars {
+  width: 166px;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+}

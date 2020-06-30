@@ -1,0 +1,9 @@
+.skills__technologies {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(4, 166px);
+  justify-content: space-between;
+  margin-top: 80px;
+  margin-bottom: 110px;
+  grid-row-gap: 50px;
+}
