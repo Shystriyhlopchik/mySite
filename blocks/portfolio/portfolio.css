@@ -1,0 +1,9 @@
+@import url('./__title/portfolio__title.css');
+@import url('./__jobs/portfolio__jobs.css');
+@import url('./__job/portfolio__job.css');
+@import url('./__img/portfolio__img.css');
+@import url('./__link/portfolio__link.css');
+
+.portfolio {
+  background: #F6F6F6;
+}
