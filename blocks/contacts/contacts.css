@@ -1,0 +1,16 @@
+@import url('./__title/contacts__title.css');
+@import url('./__subtitle/contacts__subtitle.css');
+@import url('./__button/contacts__button.css');
+@import url('./__footer/contacts__footer.css');
+@import url('./__icon/contacts__icon.css');
+@import url('./__icons/contacts__icons.css');
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  max-width: 945px;
+  margin: 0 auto;
+
+  color: #070707;
+  align-items: center;
+}

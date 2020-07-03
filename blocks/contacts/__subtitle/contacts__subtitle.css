@@ -1,0 +1,10 @@
+.contacts__subtitle {
+  font-family: 'Gilroy-Medium', Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  width: 276px;
+  
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 0;
+}
